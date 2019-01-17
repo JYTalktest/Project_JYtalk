@@ -5,10 +5,8 @@ Chatting Program
 
 ## 개발 환경
 - JAVA 1.8
-- JAVAFX 8
+- JAVAFX 3.3
 - MariaDB 10.0
 - Apache Tomcat 8.5
-
-## 개발 툴
 - Eclipse
-- Scene Builder
+- Scene Builder 8.5
