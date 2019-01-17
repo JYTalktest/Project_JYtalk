@@ -9,4 +9,4 @@ Chatting Program
 - MariaDB 10.0
 - Apache Tomcat 8.5
 - Eclipse
-- Scene Builder 8.5
+- Gluon Scene Builder 8.5
